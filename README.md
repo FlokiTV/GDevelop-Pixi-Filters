@@ -11,6 +11,7 @@
 - Outline
 
 todo:
+- update filter
 - remove filter by name
 - remove all filters
 ##### resource
